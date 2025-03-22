@@ -1,3 +1,4 @@
+Copyright © 2025. All rights reserved. For personal or educational use only.
 # StreaMP3 🎧
 
 **StreaMP3 Lite** is a playlist downloader for DJs. It lets you:
@@ -90,3 +91,5 @@ Built with:
 
 **Made by [@1stpersoncj](https://github.com/1stpersoncj)**  
 Drop issues, suggestions, or playlist memes via GitHub Issues 🙃
+
+Copyright © 2025. All rights reserved. For personal or educational use only.
