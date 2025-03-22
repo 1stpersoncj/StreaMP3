@@ -1,0 +1,35 @@
+# Bytecode cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Output folders
+downloads/
+organized/
+logs/
+
+# Executables
+ffmpeg
+StreaMP3Lite
+*.exe
+*.dmg
+*.app
+
+# macOS system files
+.DS_Store
+
+# VSCode or IDE settings (optional)
+.vscode/
+.idea/
+
+# Python cache/config
+.cache/
+.pyenv/
